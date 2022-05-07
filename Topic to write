@@ -1,0 +1,76 @@
+Flutter > FFI > C/CPP > Android JNI and back.
+
+Bonus points for the native API sendPort / receivePort to enable further multithreading when dealing with isolates.
+
+- Flutter Interop
+Flutter MethodChannel
+
+Dart Native Extension
+
+Dart FFI
+
+Dart JS interop
+
+How to call platform code?
+
+executing background code would be the best of the topics since it seems there's little to no info on that matter.
+
+- Flutter Add-to-APP
+
+Hybrid router manager
+
+Multiple Flutter engine
+
+Multiple Flutter module
+
+- Application Performance Monitor
+
+Crash report
+
+Cold start time
+
+First Meaningfu paint time
+
+Heavy list scrolling performance
+
+FPS monitor
+
+Slow message monitor
+
+Resource consumption (storage, memory, traffic)
+
+- Performance optimization (All of above)
+
+Page size optimization
+
+- Code Push / Hot Update
+
+https://github.com/flutter/flutter/issues/14330
+
+- Engine customization
+
+HTML rendering engine base on Flutter
+
+- Flutter cross platform
+
+Flutter Web
+
+Flutter Windows/macOS/Linux
+
+Flutter Fuchsia
+
+Flutter on embedded device
+
+- Flutter Hybrid-Composition rendering
+
+Flutter PlatformView
+
+working with Isolates
+
+executing background code with Android and iOS
+
+platform views
+
+deferred components
+
+Flutter Texture
